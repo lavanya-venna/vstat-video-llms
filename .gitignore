@@ -3,3 +3,6 @@ vstat_data/
 
 # vstat repo
 vstat/
+
+# claude
+.claude
