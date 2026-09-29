@@ -6,3 +6,10 @@ vstat/
 
 # claude
 .claude
+
+# Smoke tests
+src/evaluation/qwen35_9b_prompt1_smoke/
+
+# data viewer
+data_viewer
+documentation/data_viewer.md
